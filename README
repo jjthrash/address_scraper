@@ -1,3 +1,1 @@
-Intended to look at a URL, and return all the addresses off the page as a list of lists of address lines, like so:
-
-get_addresses :: IO String -> IO [[String]]
+Intended to look at a URL, and return all the addresses off the page as a list of addresses
